@@ -3,8 +3,7 @@
 Archived legacy `mc` fish function for managing local Minecraft servers on
 `laptoo`. Superseded by the compiled Go binary (see `mc-go`).
 
-> **⚠ vibecoded** — original was hand-grown but half of it got AI-rewritten
-> along the way. Kept for history / recovery. Vibes only.
+> **yep this is vibecoded asw it was just some manual aliases then evolved into a function"
 
 ## Contents
 
