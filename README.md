@@ -14,7 +14,6 @@ Archived legacy `mc` fish function for managing local Minecraft servers on
 | `_mc_kick_bots.fish` | Kick bots bound to a server port before stop |
 | `_mc_list_servers.fish` | List server dirs containing a jar |
 | `_mc_notify.fish` | Desktop notify-send + paplay sound + ntfy push |
-| `mc.fish.bak` | Older backup of the function |
 
 ## Why it was replaced
 
